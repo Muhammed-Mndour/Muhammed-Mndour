@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mhmd-mndour&color=blue" alt="Profile views" />
   <h1 align="center">👋 Hi, I’m Muhammad Mndour</h1>
   <p align="center">
   💻 Software Engineer (Backend) | 🤖 Competitive Programmer | 🏆 ACPC Finalist 
