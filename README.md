@@ -36,13 +36,33 @@ _Sep 2019 – Jul 2024_
 ---
 
 ## 🏆 Competitions & Achievements
-- **ACPC 2024** — Qualified; ranked **43⁄150** teams.  
-- **Codeforces Expert** (rating **1801**).  
-- **ECPC** (Egyptian Collegiate): 2022 — 92⁄400+; 2024 — 40⁄400+.  
-- **IEEEXtreme 16.0** — Ranked 22⁄Egypt, 152 Region, 409 Global (14,600+ participants).  
-- **Meta Hacker Cup 2023** — Reached Round 2.  
-- **+2000** problems solved on Codeforces, VJudge, UVa, SPOJ, etc.  
-- **HackerRank SQL** certifications (Basic & Intermediate).
+
+- **ACPC 2024** — Qualified and ranked **43⁄150** teams.  
+  [Link to certificate](https://drive.google.com/file/d/14LcM_p1ux5BYPFm8IMJ497nP6ow7SYz2/view?usp=sharing)
+
+- **Codeforces Expert** (max rating **1801**)  
+  [View profile](https://codeforces.com/profile/Escape)
+
+- **ECPC** 2022 & 2024 — Ranked **92⁄400+** (2022) and **40⁄400+** (2024) teams across Egypt.  
+  [ICPC ID & standings](https://icpc.global/ICPCID/I73PKKL9S2JZ)
+
+- **IEEEXtreme 16.0** — Ranked **22nd** in Egypt, **152nd** regionally, and **409th** globally (14,600+ participants).  
+  [Certificate](https://certificate.ieeextreme.org/generate-email-certificate/Nb2bkZEhMPEFlp)
+
+- **Meta Hacker Cup 2023** — Reached Round 2.  
+  [Certificate](https://www.facebook.com/codingcompetitions/hacker-cup/2023/certificate/1068232744557702)
+
+- **+2000 problems** solved across multiple judges:  
+  - Codeforces [Profile](https://codeforces.com/profile/Escape)  
+  - VJudge [Profile](https://vjudge.net/user/m7md_mndour)  
+  - UVa, SPOJ, and more
+
+- **HackerRank SQL (Basic)**  
+  [Certificate](https://www.hackerrank.com/certificates/iframe/53a967dbea2a)
+
+- **HackerRank SQL (Intermediate)**  
+  [Certificate](https://www.hackerrank.com/certificates/iframe/65c93b74a013)
+
 
 ---
 
