@@ -73,6 +73,13 @@ _Freelancer platform_ • ASP.NET Core, C#, EF Core, LINQ
 - Built controllers & services for seamless client–freelancer collaboration.  
 - Ensured performance, added pagination, validation, and error handling.
 
+### [Task Management API](https://github.com/Muhammed-Mndour/Task-Manager)  
+_FASTAPI_ • Python, SQLModel, SQLite, Docker  
+- RESTful CRUD endpoints for tasks with Pydantic validation.  
+- Advanced filtering, sorting (by created_at, updated_at, due_date) & pagination.  
+- Automatic OpenAPI/Swagger UI docs for quick exploration.  
+- Containerized via Docker for easy deployment.
+  
 ### [To‑Do List API](https://github.com/Muhammed-Mndour/Todo-List_Fastapi/tree/main)  
 _FASTAPI_ • Python, SQLModel  
 - RESTful API with CRUD endpoints for tasks & categories.  
