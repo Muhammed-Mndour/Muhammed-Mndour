@@ -39,7 +39,7 @@ _Sep 2019 – Jul 2024_
 - **ACPC 2024** — Qualified and ranked **43⁄150** teams.  
   [Link to certificate](https://drive.google.com/file/d/14LcM_p1ux5BYPFm8IMJ497nP6ow7SYz2/view?usp=sharing)
 
-- **Codeforces Expert** (max rating **1801**)  
+- **Codeforces Candidate Master** (max rating **1953**)  
   [View profile](https://codeforces.com/profile/Escape)
 
 - **ECPC** 2022 & 2024 — Ranked **92⁄400+** (2022) and **40⁄400+** (2024) teams across Egypt.  
