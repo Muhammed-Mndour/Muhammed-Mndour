@@ -14,9 +14,8 @@
 
 ## 🚀 About Me
 - Graduated **July 2024** from **Al‑Azhar University** with very good honors in Systems & Computer Engineering.
-- Expert on **Codeforces** (max rating **1801**), ACPC qualifier, with **+2,000** problems solved across online judges.
+- Candidate Master on **Codeforces** (max rating **1958**), ACPC qualifier, with **+3,000** problems solved across online judges.
 - Passionate about **algorithms & data structures**, **system design**, and building **robust web APIs**.
-
 - Always learning:  building scalable backend services and optimizing database performance.
 
 ---
@@ -72,6 +71,13 @@ _Freelancer platform_ • ASP.NET Core, C#, EF Core, LINQ
 - Designed & implemented job posting and application workflows.  
 - Built controllers & services for seamless client–freelancer collaboration.  
 - Ensured performance, added pagination, validation, and error handling.
+### [FastAPI ToDoList Application](https://github.com/Muhammed-Mndour/Todo-List-FastAPI)  
+**Tech Stack:** FastAPI, Python, MySQL, SQLAlchemy, pytest, Docker  
+**Year:** 2025  
+
+A versioned **RESTful API** for managing tasks, built with FastAPI and MySQL using clean architecture (API/domain/data layers).  
+Implemented custom middleware, dependency injection, CORS configuration, and **unit tests** with pytest.  
+Provided comprehensive API documentation for maintainability and scalability.
 
 ### [Task Management API](https://github.com/Muhammed-Mndour/Task-Manager)  
 _FASTAPI_ • Python, SQLModel, SQLite, Docker  
@@ -107,10 +113,11 @@ _Java_
 | **Databases**           | MySQL, SQLServer                              |
 | **Concepts**            | Algorithms & DS, Dynamic Programming, Graph Theory, OOP |
 | **Version Control**     | Git, GitHub                                   |
+| **Basic knowledge of**  | Docker & Linux                                |
+| **Tools \& Practices**  | REST APIs, Unit Testing, Clean Architecture   |
 | **Soft Skills**         | Problem Solving, Analytical Thinking          |
 
 ---
-
 ## 🌐 Languages
 
 - 🇪🇬 Arabic (Native)  
