@@ -1,124 +1,98 @@
+<h1 align="center">👋 Hi, I'm Muhammad Mndour</h1>
+
 <p align="center">
-  <h1 align="center">👋 Hi, I’m Muhammad Mndour</h1>
-  <p align="center">
-  💻 Software Engineer (Backend) | 🤖 Competitive Programmer | 🏆 ACPC Finalist 
-  </p>
-  <p align="center">
-    📍 Cairo, Egypt &nbsp;|&nbsp;
-    📧 <a href="mailto:muhammed.mndour@gmail.com">muhammed.mndour@gmail.com</a> &nbsp;|&nbsp;
-    📱 +20 10-0908-9548
-  </p>
+  💻 Backend Software Engineer @ <b>noon</b> &nbsp;|&nbsp; 🤖 Codeforces Candidate Master &nbsp;|&nbsp; 🏆 ACPC 2024 Qualifier
+</p>
+
+<p align="center">
+  📍 Cairo, Egypt &nbsp;|&nbsp;
+  📧 <a href="mailto:muhammed.mndour@gmail.com">muhammed.mndour@gmail.com</a> &nbsp;|&nbsp;
+  💼 <a href="https://www.linkedin.com/in/muhammad-mndour-6bbab3208/">LinkedIn</a>
 </p>
 
 ---
 
 ## 🚀 About Me
-- Graduated **July 2024** from **Al‑Azhar University** with very good honors in Systems & Computer Engineering.
-- Candidate Master on **Codeforces** (max rating **1958**), ACPC qualifier, with **+3,000** problems solved across online judges.
-- Passionate about **algorithms & data structures**, **system design**, and building **robust web APIs**.
-- Always learning:  building scalable backend services and optimizing database performance.
+
+- Backend engineer at **noon**, building the systems behind **noon Minutes**, a quick-commerce platform operating across **5 countries**.
+- I work mostly with **Python**, **FastAPI**, **MySQL**, **ClickHouse**, **BigQuery** and **Google Cloud**.
+- Competitive programmer: **Candidate Master** on Codeforces (max rating **1958**) with **3,000+** problems solved.
+- Interested in backend architecture, data pipelines, analytics systems and writing fast, reliable services.
 
 ---
 
-## 🎓 Education
+## 💼 Experience
 
-**Bachelor of Systems & Computer Engineering**  
-Faculty of Engineering, Al‑Azhar University — Cairo, Egypt  
-_Sep 2019 – Jul 2024_  
+**Software Development Engineer — noon Minutes Commercial** · noon, Cairo · _Jan 2026 – Present_
 
-- **Honors:** Very Good with Honors (GPA 3.08 / 4.0)  
-- **Graduation Project:** *TaskSync* — Developed a full‑stack freelancer platform using ASP.NET Core, C#, EF Core & LINQ; received **Excellent** grade  
-
-
+- **Backend owner of Central Tower**, the commercial command center that gives leadership a live view of sales, margins, demand, pricing and stock availability.
+- **Developer on the Replenishment Order platform**, which automates procurement with suppliers end to end, from purchase order through delivery, receiving and invoicing.
+- **Developer on the commercial assortment tools**, which control which products reach each country and darkstore through an approval workflow.
 
 ---
 
-## 🏆 Competitions & Achievements
+## 🧰 Tech Stack
 
-- **ACPC 2024** — Qualified and ranked **43⁄150** teams.  
-  [Link to certificate](https://drive.google.com/file/d/14LcM_p1ux5BYPFm8IMJ497nP6ow7SYz2/view?usp=sharing)
-
-- **Codeforces Candidate Master** (max rating **1953**)  
-  [View profile](https://codeforces.com/profile/Escape)
-
-- **ECPC** 2022 & 2024 — Ranked **92⁄400+** (2022) and **40⁄400+** (2024) teams across Egypt.  
-  [ICPC ID & standings](https://icpc.global/ICPCID/I73PKKL9S2JZ)
-
-- **IEEEXtreme 16.0** — Ranked **22nd** in Egypt, **152nd** regionally, and **409th** globally (14,600+ participants).  
-  [Certificate](https://certificate.ieeextreme.org/generate-email-certificate/Nb2bkZEhMPEFlp)
-
-- **Meta Hacker Cup 2023** — Reached Round 2.  
-  [Certificate](https://www.facebook.com/codingcompetitions/hacker-cup/2023/certificate/1068232744557702)
-
-- **+2000 problems** solved across multiple judges:  
-  - Codeforces [Profile](https://codeforces.com/profile/Escape)  
-  - VJudge [Profile](https://vjudge.net/user/m7md_mndour)  
-  - UVa, SPOJ, and more
-
-- **HackerRank SQL (Basic)**  
-  [Certificate](https://www.hackerrank.com/certificates/iframe/53a967dbea2a)
-
-- **HackerRank SQL (Intermediate)**  
-  [Certificate](https://www.hackerrank.com/certificates/iframe/65c93b74a013)
-
+| Area | Technologies |
+| --- | --- |
+| **Languages** | Python, SQL, C++, C#, Java, JavaScript |
+| **Backend** | FastAPI, ASP.NET Core, SQLAlchemy, REST APIs, event-driven services, background jobs |
+| **Databases & Data** | MySQL, ClickHouse, BigQuery, PostgreSQL, SQL Server, SQLite |
+| **Cloud & DevOps** | Google Cloud (Cloud Storage, Pub/Sub), Docker, Kubernetes, Git/GitHub, Linux |
+| **Practices** | pytest, clean architecture, code reviews, secure coding |
+| **CS Fundamentals** | Algorithms & data structures, dynamic programming, graph theory, OOP |
 
 ---
 
 ## 🛠️ Projects
 
-### [TaskSync](https://github.com/A7medSabri/FinalProject)  
-_Freelancer platform_ • ASP.NET Core, C#, EF Core, LINQ  
-- Designed & implemented job posting and application workflows.  
-- Built controllers & services for seamless client–freelancer collaboration.  
-- Ensured performance, added pagination, validation, and error handling.
-### [FastAPI ToDoList Application](https://github.com/Muhammed-Mndour/Todo-List-FastAPI)  
-**Tech Stack:** FastAPI, Python, MySQL, SQLAlchemy, pytest, Docker  
-**Year:** 2025  
+### [To-Do List API](https://github.com/Muhammed-Mndour/Todo-List-FastAPI)
+FastAPI · SQLAlchemy · MySQL · Docker · pytest
+- Versioned REST API built with clean architecture (API, domain and data layers).
+- Custom middleware, dependency injection, CORS configuration and pytest unit tests.
 
-A versioned **RESTful API** for managing tasks, built with FastAPI and MySQL using clean architecture (API/domain/data layers).  
-Implemented custom middleware, dependency injection, CORS configuration, and **unit tests** with pytest.  
-Provided comprehensive API documentation for maintainability and scalability.
+### [URL Shortener API](https://github.com/Muhammed-Mndour/fastapi-url-shortener)
+FastAPI · SQLAlchemy · MySQL · Docker · pytest
+- Short-code generation, redirects and input validation, fully containerized and tested.
 
-### [Task Management API](https://github.com/Muhammed-Mndour/Task-Manager)  
-_FASTAPI_ • Python, SQLModel, SQLite, Docker  
-- RESTful CRUD endpoints for tasks with Pydantic validation.  
-- Advanced filtering, sorting (by created_at, updated_at, due_date) & pagination.  
-- Automatic OpenAPI/Swagger UI docs for quick exploration.  
-- Containerized via Docker for easy deployment.
-  
-### [To‑Do List API](https://github.com/Muhammed-Mndour/Todo-List_Fastapi/tree/main)  
-_FASTAPI_ • Python, SQLModel  
-- RESTful API with CRUD endpoints for tasks & categories.  
-- Filtering, validation, and relational integrity checks.  
-- Deployed locally via Uvicorn; lightweight, pluggable architecture.
+### [Task Manager API](https://github.com/Muhammed-Mndour/Task-Manager)
+FastAPI · SQLModel · SQLite · Docker
+- CRUD API with filtering, sorting, pagination and auto-generated OpenAPI docs.
 
-### [Restaurant Management System](https://github.com/Muhammed-Mndour/Resturant-)  
-_JavaFX_ • Java  
-- Secure login, inventory tracking, meal & drink management UI.  
-- Customizable menus, real-time stock updates, intuitive UX.
+### [TaskSync](https://github.com/A7medSabri/FinalProject) — Graduation Project (Excellent)
+ASP.NET Core · C# · EF Core · SQL Server
+- Freelance platform backend: job posting, task applications and client–freelancer collaboration workflows.
 
-### [Math Toolbox](https://github.com/Muhammed-Mndour/Calculator)  
-_Java_  
-- Matrix operations (add/subtract/multiply), determinant calculator.  
-- Quadratic equation solver & basic arithmetic functions.
+<details>
+<summary>Earlier projects</summary>
+
+- [Restaurant Management System](https://github.com/Muhammed-Mndour/Resturant-) — JavaFX app with login, inventory and menu management.
+- [Math Toolbox](https://github.com/Muhammed-Mndour/Calculator) — Java matrix operations, determinants and equation solver.
+
+</details>
 
 ---
 
-## 🧰 Technical Skills
+## 🏆 Competitions & Achievements
 
-| Domain                  | Technologies & Tools                          |
-| ----------------------- | --------------------------------------------- |
-| **Languages**           | C++, Python, Java, C#, SQL                    |
-| **Frameworks & Libraries** | ASP.NET Core, Entity Framework Core, LINQ, FastAPI |
-| **Databases**           | MySQL, SQLServer                              |
-| **Concepts**            | Algorithms & DS, Dynamic Programming, Graph Theory, OOP |
-| **Version Control**     | Git, GitHub                                   |
-| **Basic knowledge of**  | Docker & Linux                                |
-| **Tools \& Practices**  | REST APIs, Unit Testing, Clean Architecture   |
-| **Soft Skills**         | Problem Solving, Analytical Thinking          |
+- **Codeforces** — Candidate Master, max rating **1958**. [Profile](https://codeforces.com/profile/Escape)
+- **ACPC 2024** — Ranked **43/150** teams. [ICPC ID](https://icpc.global/ICPCID/I73PKKL9S2JZ)
+- **ECPC 2022 & 2024** — Ranked **92/400** (2022) and **40/400** (2024).
+- **IEEEXtreme 16.0** — **409th** globally out of **14,600+** participants (22nd in Egypt, 152nd in region). [Certificate](https://certificate.ieeextreme.org/generate-email-certificate/Nb2bkZEhMPEFlp)
+- **Meta Hacker Cup** — Round 2 qualifier in 2023 and 2025. [2023](https://www.facebook.com/codingcompetitions/hacker-cup/2023/certificate/1068232744557702) · [2025](https://www.facebook.com/codingcompetitions/hacker-cup/2025/certificate/1068232744557702)
+- **NUCPA** — Ranked **28th**. [Certificate](https://drive.google.com/file/d/1GKX7nsLfP0Gv6beRhlvAmWeflW0Onrgw/view?usp=sharing)
+- **HackerRank SQL** — [Basic](https://www.hackerrank.com/certificates/iframe/53a967dbea2a) and [Intermediate](https://www.hackerrank.com/certificates/iframe/65c93b74a013) certificates.
+- **3,000+ problems** solved on Codeforces, [VJudge](https://vjudge.net/user/m7md_mndour), LeetCode, HackerRank, UVa and SPOJ.
 
 ---
+
+## 🎓 Education
+
+**B.Sc. Systems & Computer Engineering** — Faculty of Engineering, Al-Azhar University · _Sep 2019 – Jul 2024_
+Very Good with Honors · GPA 3.08/4.0
+
+---
+
 ## 🌐 Languages
 
-- 🇪🇬 Arabic (Native)  
-- 🇬🇧 English (Very Good)
+🇪🇬 Arabic (Native) · 🇬🇧 English (Very Good)
